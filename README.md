@@ -29,8 +29,6 @@
 
 ## 🎯 Objetivos para 2026
 
-## 🎯 Objetivos para 2026
-
 - Concluir com sucesso o 1º período de Sistemas de Informação
 - Evoluir minhas habilidades em JavaScript e C#
 - Aprender React para desenvolvimento front-end moderno
