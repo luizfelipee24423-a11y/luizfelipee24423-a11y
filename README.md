@@ -11,37 +11,37 @@
 - HTML
 - CSS
 - JavaScript
+- React
 - C#
+- SQL
 - Git e GitHub
 
-## 💼 Atualmente
+## 🎓 Formação e experiência
 
 - 🎓 Graduando em Sistemas de Informação - PUC Minas
-- ⚡ Estagiário em montagem de painéis elétricos
-- 📚 Desenvolvendo projetos para portfólio
-- 🚀 Aprendendo JavaScript e Desenvolvimento Web
+- ⚡ Técnico em Eletroeletrônica - CEFET-MG
+- 🔧 Experiência de estágio na área de Eletroeletrônica, com montagem de quadros e painéis elétricos
+- 💻 Atualmente aprofundando conhecimentos em Desenvolvimento Web, React e C#
 
 ## 📌 Projetos
 
+- ⚛️ Lista de Exercícios em React
 - 💬 Fórum para Universitários (PUCMeet)
 - ⚽ Elenco do Cruzeiro
-- 🧮 Exercícios de Lógica e Matrizes em C#
+- 🧮 Exercícios e algoritmos em C#
+- 📊 Implementações de algoritmos de ordenação
 
-## 🎯 Objetivos para 2026
+## 🎯 Objetivos
 
-- Concluir com sucesso o 1º período de Sistemas de Informação
-- Evoluir minhas habilidades em JavaScript e C#
-- Aprender React para desenvolvimento front-end moderno
+- Evoluir minhas habilidades em JavaScript, React e C#
+- Aprimorar meus conhecimentos em Desenvolvimento Web
 - Construir um portfólio sólido no GitHub
-- Desenvolver projetos práticos para aplicar conhecimentos da faculdade
+- Desenvolver projetos práticos aplicando conhecimentos da faculdade
 - Conseguir uma oportunidade na área de Desenvolvimento de Software
-- Aprender mais sobre Git, GitHub e boas práticas de programação
-- Realizar minha primeira contribuição em um projeto open source
-- Fortalecer meu perfil profissional no LinkedIn
-- Continuar evoluindo tecnicamente todos os dias
+- Evoluir no uso de Git e GitHub
+- Continuar evoluindo tecnicamente e aprendendo novas tecnologias
 
 ## 📫 Contato
 
 - LinkedIn: www.linkedin.com/in/luizfbrito
 - Email: luizfelipealmeidaa12@gmail.com
-
